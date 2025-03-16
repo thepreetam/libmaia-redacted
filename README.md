@@ -551,5 +551,5 @@ MAIA QFC is licensed under the MIT License - see the [LICENSE](LICENSE) file for
 ## Contact
 
 - Project Website: [https://maia-qfc.org](https://maia-qfc.org)
-- Technical Support: [support@maia-qfc.com](mailto:support@maia-qfc.com)
-- Commercial Inquiries: [business@maia-qfc.com](mailto:business@maia-qfc.com) 
+- Technical Support: [preetam@mahamaia.com](mailto:preetam@mahamaia.com)
+- Commercial Inquiries: [preetam@mahamaia.com](mailto:preetam@mahamaia.com) 

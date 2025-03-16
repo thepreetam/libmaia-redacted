@@ -107,5 +107,5 @@ A strategic investment would secure privileged access to this technology while a
 
 For detailed technical demonstrations or investment discussions, please contact:
 
-- Technical Inquiries: [technology@maia-qfc.com](mailto:technology@maia-qfc.com)
-- Investment Opportunities: [partnerships@maia-qfc.com](mailto:partnerships@maia-qfc.com) 
+- Technical Inquiries: [preetam@mahamaia.com](mailto:preetam@mahamaia.com)
+- Investment Opportunities: [preetam@mahamaia.com](mailto:preetam@mahamaia.com) 

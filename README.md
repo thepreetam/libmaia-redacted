@@ -285,7 +285,7 @@ int main() {
 
 ## Performance
 
-MAIA QFC achieves significant compression gains compared to traditional codecs:
+MAIA QFC promises to achieve significant compression gains compared to traditional codecs:
 
 | Codec     | PSNR (dB) | MS-SSIM | Bitrate Savings |
 |-----------|-----------|---------|-----------------|
@@ -550,6 +550,6 @@ MAIA QFC is licensed under the MIT License - see the [LICENSE](LICENSE) file for
 
 ## Contact
 
-- Project Website: [https://maia-qfc.org](https://maia-qfc.org)
+- Project Website: [https://mahamaia.com](https://mahamaia.com)
 - Technical Support: [preetam@mahamaia.com](mailto:preetam@mahamaia.com)
 - Commercial Inquiries: [preetam@mahamaia.com](mailto:preetam@mahamaia.com) 
